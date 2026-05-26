@@ -55,8 +55,7 @@ Build a modern **Lakehouse** platform to generate advanced basketball analytics 
 
 Expanded the pipeline from San Lorenzo to the full LNB league — 19 teams, 342 regular season games. Built 3 independent scrapers, extended the Medallion Architecture and Star Schema to cover all teams, and calculated advanced metrics league-wide including ORtg, DRtg, Net Rating, TS%, eFG% and USG%.
 
-<img width="1183" height="908" alt="image" src="https://github.com/user-attachments/assets/8529ff33-9834-4927-b3b9-67933029bebe" />  
-
+<img width="1487" height="862" alt="image" src="https://github.com/user-attachments/assets/7e7ea751-6f74-449b-b87b-286388932816" />
 
 
 
