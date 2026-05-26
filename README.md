@@ -73,4 +73,4 @@ laliganacional.com.ar → Playwright → Parquet → Databricks
                                               
 
 **Autor**: Fabio Fernández  
-**Estado**: MVP Finished (Abril 2026)
+**Estado**: Stage 2 Completed (May 2026)
